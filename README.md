@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, ASP.NET Core, Mircorsoft SQL Server, UI/UX Designing**
 
-- 👯 I’m looking to collaborate on **I want to collaborate on .NET Deskop and Web base Application**
+- 👯 I’m looking to collaborate on ** .NET Project (Web & Desktop based applications)**
 
 - 💬 Ask me about **I am passionate .NET developer, who loves to solve real world problem by developing meaningful, scalable and maintainable system solution by using latest secured technology.**
 
