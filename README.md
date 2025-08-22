@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Student Result Processing System](https://github.com/gauravsingh9891/Student-Result-Processing-System.git)
 
-- 🌱 I’m currently learning **ASP.NET, ASP.NET Core, Mircorsoft SQL Server, UI/UX Designing**
+- 🌱 I’m currently learning **ASP.NET, ASP.NET Core, Mircorsoft SQL Server, Angular, UI/UX Designing**
 
 - 👯 I’m looking to collaborate on ** .NET Project (Web & Desktop based applications)**
 
